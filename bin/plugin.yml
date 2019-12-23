@@ -1,0 +1,25 @@
+name: DKSouls
+author: SenhorDK
+main: me.senhordk.dkalmas.Main
+version: 1.0
+depend: [Citizens]
+
+commands:
+  Souls:
+    description: see your souls!
+    aliases: [almas]
+  SetSouls:
+    description: setar souls!
+    aliases: [setalmas]
+  AddSouls:
+    description: add souls!
+    aliases: [addalmas]
+  RemoveSouls:
+    description: to remove souls!
+    aliases: [removealmas]
+  ResetSouls:
+    description: to reset souls!!
+    aliases: [resetalmas]
+  Setsoulsshop:
+  Removesoulsshop:
+    
