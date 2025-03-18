@@ -1,2 +1,2 @@
 # DKSouls_Free
- Plugin de almas
+ Plugin de almas para o jogo Minecraft
